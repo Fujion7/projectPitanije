@@ -11,4 +11,4 @@
     animation-duration: 1.5s;
 }
 
-@keyframes fade {from{opacity: 0.1s;}to{opacity: 1s;}}
+@keyframes fade {from{opacity: 0;}to{opacity: 1;}}
